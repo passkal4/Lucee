@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Code Audit"
+  short_description: "Deep Java security audit workflow with knowledge base and rules"
+  default_prompt: "Perform full-chain Java code security audit with staged analysis and reporting."
